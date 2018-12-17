@@ -1,5 +1,6 @@
 # E*TRADE API
 
+This node.js module is adapted from the v0 version found on npm by the name of 'etrade'.
 A Node.js module for the [E*TRADE web services API](https://us.etrade.com/ctnt/dev-portal/getContent?contentUri=V0_Documentation-GettingStarted).
 
 ## Usage
