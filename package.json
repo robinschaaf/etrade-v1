@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "oauth-sign": "0.4.x",
-    "request": "2.34.x"
+    "request": "2.88.x"
   },
   "description": "Use E*TRADE's REST API",
   "devDependencies": {
